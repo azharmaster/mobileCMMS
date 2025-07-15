@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560383687339",
+    "project_id": "mobilecmms-adbd6",
+    "storage_bucket": "mobilecmms-adbd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560383687339:android:a73fa24e2799bb6cd1d5ee",
+        "android_client_info": {
+          "package_name": "com.example.pakar_cmms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560383687339-72eqp1oqj9pvguj3oqgcqr5fp8ibt74m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBQra2T94w8j7rrxxo9e4kJDhR184IjyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560383687339-72eqp1oqj9pvguj3oqgcqr5fp8ibt74m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
